@@ -15,12 +15,18 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+  background-color: #eeeeee;
+
 }
 
 *,
 *:before,
 *:after {
   box-sizing: border-box;
+  margin: 0;
+}
+
+.body {
   margin: 0;
 }
 
